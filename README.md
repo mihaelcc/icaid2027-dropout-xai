@@ -32,7 +32,7 @@ The dataset is **not** redistributed here; the script downloads it directly from
 
 ### Google Colab
 ```python
-!git clone https://github.com/USUARIO/icaid2027-dropout-xai.git
+!git clone https://github.com/mihaelcc/icaid2027-dropout-xai.git
 %cd icaid2027-dropout-xai
 !pip install -r requirements.txt
 !python dropout_xai.py
@@ -40,7 +40,7 @@ The dataset is **not** redistributed here; the script downloads it directly from
 
 ### Local
 ```bash
-git clone https://github.com/USUARIO/icaid2027-dropout-xai.git
+git clone https://github.com/mihaelcc/icaid2027-dropout-xai.git
 cd icaid2027-dropout-xai
 pip install -r requirements.txt
 python dropout_xai.py                 # downloads the data from UCI
