@@ -1,0 +1,32 @@
+{
+  "S1_FirstSemester": [
+    "XGBoost",
+    {
+      "Curricular units 1st sem (approved)": 1.3114999532699585,
+      "Tuition fees up to date": 0.4869999885559082,
+      "Age at enrollment": 0.35740000009536743,
+      "Curricular units 1st sem (grade)": 0.34630000591278076,
+      "Course": 0.31679999828338623,
+      "Curricular units 1st sem (enrolled)": 0.29840001463890076,
+      "Gender": 0.20919999480247498,
+      "Unemployment rate": 0.20520000159740448,
+      "Scholarship holder": 0.20250000059604645,
+      "Mother's occupation": 0.18330000340938568
+    }
+  ],
+  "S2_SecondSemester": [
+    "XGBoost",
+    {
+      "Curricular units 2nd sem (approved)": 1.3105000257492065,
+      "Tuition fees up to date": 0.43880000710487366,
+      "Curricular units 1st sem (approved)": 0.4345000088214874,
+      "Course": 0.30649998784065247,
+      "Age at enrollment": 0.28929999470710754,
+      "Curricular units 2nd sem (grade)": 0.26579999923706055,
+      "Curricular units 2nd sem (enrolled)": 0.22179999947547913,
+      "Unemployment rate": 0.21160000562667847,
+      "Admission grade": 0.17489999532699585,
+      "Scholarship holder": 0.16459999978542328
+    }
+  ]
+}

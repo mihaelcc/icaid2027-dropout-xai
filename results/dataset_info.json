@@ -1,0 +1,16 @@
+{
+  "n": 4424,
+  "class_counts": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  },
+  "dropout_rate": 0.3212025316455696,
+  "n_train": 3539,
+  "n_test": 885,
+  "stage_n_features": {
+    "S0_Admission": 24,
+    "S1_FirstSemester": 30,
+    "S2_SecondSemester": 36
+  }
+}

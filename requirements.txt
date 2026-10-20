@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn>=1.5
+xgboost==3.4.1
+lightgbm==4.6.0
+shap==0.54.1
+matplotlib
+ucimlrepo==0.0.7

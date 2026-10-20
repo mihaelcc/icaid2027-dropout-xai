@@ -1,0 +1,27 @@
+{
+  "friedman_S0_Admission": {
+    "chi2": 17.640000000000015,
+    "p": 0.000521813267186744
+  },
+  "friedman_S1_FirstSemester": {
+    "chi2": 15.159999999999997,
+    "p": 0.0016848990758558018
+  },
+  "friedman_S2_SecondSemester": {
+    "chi2": 4.039999999999992,
+    "p": 0.25717712125508224
+  },
+  "best_model_per_stage": {
+    "S0_Admission": "LogReg",
+    "S1_FirstSemester": "LogReg",
+    "S2_SecondSemester": "XGBoost"
+  },
+  "wilcoxon_S0_Admission_vs_S1_FirstSemester_LogReg": {
+    "W": 0.0,
+    "p": 6.103515625e-05
+  },
+  "wilcoxon_S1_FirstSemester_vs_S2_SecondSemester_XGBoost": {
+    "W": 0.0,
+    "p": 6.103515625e-05
+  }
+}
