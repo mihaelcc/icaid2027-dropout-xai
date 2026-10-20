@@ -5,11 +5,11 @@ authors:
   - family-names: "Cabanillas-Carbonell"
     given-names: "Michael"
     affiliation: "Universidad Privada del Norte, Peru"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0001-9675-0970"
 version: "1.0.0"
 date-released: "2026-10-20"
 license: MIT
-repository-code: "https://github.com/USUARIO/icaid2027-dropout-xai"
+repository-code: "https://github.com/mihaelcc/icaid2027-dropout-xai"
 preferred-citation:
   type: conference-paper
   title: "Explainable Machine Learning for Early Prediction of Student Dropout: A Stage-Wise SHAP Analysis on Open Academic Data"
